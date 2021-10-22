@@ -1,0 +1,5 @@
+Number of is in data : 675
+The Number of Instances of Continues Numbers in Data is : 31
+The Most Frequently Used Number : 1603
+The Most frequent Number is used first time in the text is : Year
+The Number close to Event is Describing about : Cervantes
